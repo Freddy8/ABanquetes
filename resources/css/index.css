@@ -149,5 +149,14 @@ height: 7vw;
     font-size: 2.8vw;
   }
 
+  .booking_form {
+    font-size: 3vw;
+  }
+
+  .booking_form input, textarea, button{
+  margin: 2vw;
+  width: 65vw;
+  height: 4vw;
+  }
 
 }
